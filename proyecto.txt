@@ -1,3 +1,5 @@
 Version 1: Creación del proyecto
 
 Version 2: Crear mapa 
+
+Version 4: Personaje
